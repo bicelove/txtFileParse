@@ -1,0 +1,14 @@
+other
+property.black
+property.white
+property.gray
+property.red
+property.yellow
+property.blue
+property.green
+property.purple
+property.stripe
+property.suihua
+property.lattice
+property.leopard
+property.dot

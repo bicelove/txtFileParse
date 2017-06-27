@@ -1,15 +1,0 @@
-other:	0
-property.black:	62074
-property.white:	10344
-property.gray:	9233
-property.red:	13629
-property.yellow:	5013
-property.blue:	19964
-property.green:	3396
-property.purple:	1355
-property.silvery:	119
-property.golden:	174
-property.stripe:	2482
-property.suihua:	4801
-property.lattice:	1207
-property.leopard:	90
